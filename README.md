@@ -1,2 +1,2 @@
-# list_python_basic
-## its just for reference basic
+# list python basic
+its just for reference basic
